@@ -8,7 +8,7 @@
     "theme",
     "tango"
   ],
-  "repository": "https://github.com/atom/tango-syntax",
+  "repository": "https://github.com/ocoras/tango-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
