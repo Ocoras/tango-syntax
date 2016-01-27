@@ -1,0 +1,16 @@
+{
+  "name": "tango-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A syntax theme created using the Tango Project Colour Palette",
+  "keywords": [
+    "syntax",
+    "theme",
+    "tango"
+  ],
+  "repository": "https://github.com/atom/tango-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
