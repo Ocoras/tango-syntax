@@ -1,7 +1,7 @@
 {
   "name": "tango-syntax",
   "theme": "syntax",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A syntax theme created using the Tango Project Colour Palette",
   "keywords": [
     "syntax",
